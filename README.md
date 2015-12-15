@@ -23,3 +23,6 @@ Yesterday. Who put this question in here??? :D
 4. MVP/MFS (mimimum feature set)
 5. To infinity...and beyond!
 6. (There is no...rule \#6)...
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AmitaiB/badboys3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
